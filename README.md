@@ -2,9 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongeum17@gmail.com)](mailto:jeongeum17@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ooomiiii_/)](https://www.instagram.com/ooomiiii_/) 
-<!--
-[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123)
--->
+[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/jeongeum17)](https://blog.naver.com/jeongeum17)
+
 <br>
 
 ## Work experience 🤹‍♀️
